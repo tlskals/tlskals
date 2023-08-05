@@ -11,4 +11,5 @@
 
 ## Github stats
 ![tlskals's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlskals&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tlskals&langs_count=10&layout=compact&theme=radical)](https://github.com/tlskals/tlskals)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlskals)](https://github.com/tlskals/tlskals)
+
